@@ -14,51 +14,45 @@ Nirvana A Quality Music Bot which Makes You Feel the Music and it's Beats
 <div align="center">
 </div>
 
-# Nirvana Privacy Policy
-Effective Date: 27 September 2024
+# Nirvana Terms of Service
+Thank you for choosing Nirvana! By using our music bot, you agree to the following terms. Please read them carefully.
 
-At Nirvana, your privacy is our priority. This Privacy Policy explains how we collect, use, and protect your personal information when you use our music bot.
+## Changes to Terms
 
-## Information We Collect
-- User Data: 
-- Discord usernames and IDs to identify users.
-- Content you send, such as song requests.
+We may update these terms at any time without prior notice. It’s your responsibility to review them regularly to stay informed.
 
-## Usage Data:
-- Interactions with Nirvana, including command usage.
+## Ownership and Usage
 
-## Device Information:
-- Data about your device, like IP address and browser type.
+Nirvana is dedicated to providing you with the best music experience. We reserve the right to modify the bot and its services as needed. If any charges are introduced, we will clearly communicate what you’re paying for.
 
-## How We Use Your Information, We use your information to:
+By using Nirvana, you accept these terms. You are prohibited from copying, altering, or extracting the source code of the bot. All intellectual property rights, including trademarks and copyrights, belong to Nirvana's owner.
 
-- Provide and maintain our services.
-- Personalize your experience.
-- Monitor usage and improve functionality.
-- Communicate updates and support.
+## Service Updates and Termination
 
-## Data Sharing
-We do not sell or rent your personal information. We may share data:
+We may periodically update Nirvana and reserve the right to discontinue the service at any time with prior notice.
 
-With Your Consent: If you explicitly permit us.
-Legal Obligations: To comply with laws or respond to legal requests.
+## Usage Restrictions
 
-## Data Security
-We implement security measures to protect your information from unauthorized access or misuse. While we strive to safeguard your data, no method of transmission over the internet is 100% secure.
+Nirvana enables you to play music in Discord channels while maintaining server accountability. The server owner is responsible for all actions taken by the bot.
 
-## Your Rights
-You have the right to:
+### You may not:
 
-- Access the personal information we hold about you.
-- Request corrections for inaccurate data.
-- Request deletion of your personal information, subject to legal obligations.
+- Use Nirvana to send advertisements or promotional content.
+- Obscure the server name from which music is being streamed.
+- Send spam or repetitive messages, particularly in direct messages.
+- Use Nirvana on servers that violate Discord’s Community Guidelines or in any way that goes against them.
+- Deceive or mislead users, especially regarding sensitive information like passwords.
+- Misuse our support services or submit false abuse reports.
+- Engage in unauthorized linking or framing of the bot.
+- Attempt to bypass any access restrictions put in place by Nirvana.
+- Utilize any form of unauthorized automation within Discord.
 
-## Changes to This Policy
-We may update this Privacy Policy occasionally. Changes will be effective immediately upon posting. Please review it periodically.
+## Note
 
-## Contact Us
-For questions or concerns regarding this Privacy Policy, please reach out via our support server:
+Violating any of the above terms may result in blacklisting and removal from our services.
 
-[Support Server](https://discord.gg/strings)
+## Permanent Link
 
-Thank you for using Nirvana! Your privacy matters to us.
+[Support](https://discord.gg/strings)
+
+Thank you for using Nirvana! Enjoy your music experience!
