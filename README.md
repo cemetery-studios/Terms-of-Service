@@ -5,7 +5,7 @@
 </p>
 
 # Grave
-[![node](https://img.shields.io/badge/node-v20.11.1-green)](#) [![discord.js](https://img.shields.io/badge/discord.js-latest-blue)](#) [![license](https://img.shields.io/badge/license-MIT-red)](#) [![discord](https://img.shields.io/discord/987749138743582811?color=7289da&logo=discord&logoColor=white)](https://discord.gg/9bWCU6VPEM)
+[![node](https://img.shields.io/badge/node-v20.11.1-green)](#) [![discord.js](https://img.shields.io/badge/discord.js-latest-blue)](#) [![license](https://img.shields.io/badge/license-MIT-red)](#) [![discord](https://img.shields.io/discord/1293149395432378458?color=7289da&logo=discord&logoColor=white)](https://discord.gg/funereal)
 
 Grave A Quality Music Bot which Makes You Feel the Music and it's Beats
 </div>
