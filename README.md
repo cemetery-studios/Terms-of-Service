@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="nirvana.jpg" width="200" height="200">
+  <img src="grave.png" width="200" height="200">
 </p>
 
 # Grave
